@@ -87,6 +87,16 @@ export default App;
 
   - Ensures that hours, minutes, and seconds are always displayed as two digits (e.g., `09` instead of `9`).
 
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make changes, and submit a pull request. Please ensure that your contributions align with the project's coding standards and conventions.
+
+1. Fork the Repository
+2. Create a New Branch (`git checkout -b feature-branch`)
+3. Commit Your Changes (`git commit -m 'Add some feature'`)
+4. Push to the Branch (`git push origin feature-branch`)
+5. Open a Pull Request
+
 ## LICENSE
 [**MIT License**](./LICENSE)
 
