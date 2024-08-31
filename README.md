@@ -1,5 +1,8 @@
 # DigitalClock Component
 
+*Deployed on Netlify 😉*\
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e395283-300f-421c-8df7-c989163c8f6d/deploy-status)](https://digital-clock-app-ahmmmyoo.netlify.app/)
+
 This `DigitalClock` React component is a simple digital clock that displays the current time, updates every second, and shows the time in 12-hour format with AM/PM notation. It also sets the document title to "My Digital Clock" when the component is mounted.
 
 ### React + Vite
