@@ -45,7 +45,7 @@ To use this component in your project, follow these steps:
 4. **Run the Application**:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage 
